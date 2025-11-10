@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 LiveKit Filler Word Interrupt Handler Agent
 Real-time conversational AI with intelligent filler interruption filtering  
 
@@ -205,9 +205,4 @@ A natural, human-like conversational AI agent that:
 
 ```
 feature/livekit-interrupt-handler-GuttulaViswaVenkataYashwanth
-```
-
-```
-
----
 ```
