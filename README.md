@@ -80,6 +80,7 @@ The project extends the LiveKit Agents SDK to maintain smooth, natural dialogue 
 3️⃣ Configure Environment
   
   Create a .env.local file with:
+  
     LIVEKIT_API_KEY=lk_api_key_1234567890abcdef
     LIVEKIT_API_SECRET=lk_secret_key_abcdef1234567890
     LIVEKIT_URL=wss://your-livekit-server-url.livekit.cloud  
